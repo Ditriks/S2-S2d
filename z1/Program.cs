@@ -10,6 +10,6 @@ while (x > 5)
     x = x - 1;
 }
 
-int x = new Random().Next(1, 100);
+int xy = new Random().Next(1, 100);
 Console.WriteLine(x);
 
