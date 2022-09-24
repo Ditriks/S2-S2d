@@ -1,0 +1,15 @@
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\bin\Debug\net6.0\Dz3.exe
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\bin\Debug\net6.0\Dz3.deps.json
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\bin\Debug\net6.0\Dz3.runtimeconfig.json
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\bin\Debug\net6.0\Dz3.dll
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\bin\Debug\net6.0\Dz3.pdb
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.csproj.AssemblyReference.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.AssemblyInfoInputs.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.AssemblyInfo.cs
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.csproj.CoreCompileInputs.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.dll
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\refint\Dz3.dll
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.pdb
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\Dz3.genruntimeconfig.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar2\Dz3\obj\Debug\net6.0\ref\Dz3.dll
